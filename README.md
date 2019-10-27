@@ -27,7 +27,7 @@
 * Sample output:
 * 'name' indicates what type of fuzzed data is being used (generated in `generate_fuzz_data()`).
 * JSON logs will be written during execution so cntrl-c abort can be used. 
-* JSON log sameple at sample_data_20191027-193544.json
+* JSON log sample at sample_data_20191027-193544.json
 ```
 python3 mutate_fuzz.py -i x.x.x.x -u user
 using telnet - not secure
