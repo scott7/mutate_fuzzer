@@ -1,4 +1,4 @@
-# Junos NETCONF XML RPC Fuzzer
+# Mutate fuzzer for networking devices
 
 
 * The following fuzzer will send fuzzed xml rpc commands, based on valid commands, post authentication to a junos device.
